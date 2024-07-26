@@ -796,7 +796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Material receiving" id="TuAz-KD_Ymm_1TcQqgIj">
-    <mxGraphModel dx="1755" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qaj5zATMnUIq8szRWWFh-0" />
         <mxCell id="qaj5zATMnUIq8szRWWFh-1" parent="qaj5zATMnUIq8szRWWFh-0" />
@@ -1005,6 +1005,12 @@
         </mxCell>
         <mxCell id="j2GI47MFWp2IsGZ65d1x-22" value="Storefront Material receiving (Dry)**" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="qaj5zATMnUIq8szRWWFh-1">
           <mxGeometry x="700" y="68.93000000000004" width="100" height="37.75" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GI47MFWp2IsGZ65d1x-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qaj5zATMnUIq8szRWWFh-1" source="j2GI47MFWp2IsGZ65d1x-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="220" as="sourcePoint" />
+            <mxPoint x="820" y="189" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
