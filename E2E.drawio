@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T09:17:35.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FaXsBBPwFIQRKI2qiCc7" version="24.7.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.4" pages="14">
   <diagram name="Overall flow" id="aIydNRDStPWsSJ3BAeCJ">
     <mxGraphModel dx="1688" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -796,7 +796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Material receiving" id="TuAz-KD_Ymm_1TcQqgIj">
-    <mxGraphModel dx="1407" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qaj5zATMnUIq8szRWWFh-0" />
         <mxCell id="qaj5zATMnUIq8szRWWFh-1" parent="qaj5zATMnUIq8szRWWFh-0" />
@@ -949,22 +949,19 @@
         <mxCell id="uJtgWq79T4M8viE7-oRs-2" value="Ingredient receiving" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="700" y="131" width="100" height="37.75" as="geometry" />
         </mxCell>
-        <mxCell id="uJtgWq79T4M8viE7-oRs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qaj5zATMnUIq8szRWWFh-1" source="uJtgWq79T4M8viE7-oRs-6" target="qaj5zATMnUIq8szRWWFh-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uJtgWq79T4M8viE7-oRs-6" value="Raw Material receiving" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
+        <mxCell id="uJtgWq79T4M8viE7-oRs-6" value="Raw Material/ Packaging receiving" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="700" y="180" width="100" height="37.75" as="geometry" />
-        </mxCell>
-        <mxCell id="uJtgWq79T4M8viE7-oRs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qaj5zATMnUIq8szRWWFh-1" source="uJtgWq79T4M8viE7-oRs-8" target="qaj5zATMnUIq8szRWWFh-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="331.25" />
-              <mxPoint x="1140" y="331.25" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="xd6v0N7IMzQXnWXEan3K-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qaj5zATMnUIq8szRWWFh-1" source="uJtgWq79T4M8viE7-oRs-8" target="qaj5zATMnUIq8szRWWFh-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GI47MFWp2IsGZ65d1x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qaj5zATMnUIq8szRWWFh-1" source="uJtgWq79T4M8viE7-oRs-8" target="j2GI47MFWp2IsGZ65d1x-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="330" />
+              <mxPoint x="1140" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uJtgWq79T4M8viE7-oRs-8" value="Storefront Material receiving*" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="700" y="231.25" width="100" height="37.75" as="geometry" />
@@ -980,11 +977,20 @@
         <mxCell id="xd6v0N7IMzQXnWXEan3K-2" value="Storefront Material receiving : Frozen/Repack materials are received, counted, and stored by WH but added into inventory by Finance." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="200" y="341.25" width="720" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0uoR4K03MKFFsdqPhiJ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png" vertex="1" parent="qaj5zATMnUIq8szRWWFh-1">
+        <mxCell id="X0uoR4K03MKFFsdqPhiJ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="387" y="105.88" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0uoR4K03MKFFsdqPhiJ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png" vertex="1" parent="qaj5zATMnUIq8szRWWFh-1">
+        <mxCell id="X0uoR4K03MKFFsdqPhiJ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png" parent="qaj5zATMnUIq8szRWWFh-1" vertex="1">
           <mxGeometry x="387" y="205.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GI47MFWp2IsGZ65d1x-0" value="Update inventory" style="whiteSpace=wrap;html=1;rounded=1;shape=label;fixedSize=1;" vertex="1" parent="qaj5zATMnUIq8szRWWFh-1">
+          <mxGeometry x="1090" y="230.25" width="100" height="37.75" as="geometry" />
+        </mxCell>
+        <mxCell id="j2GI47MFWp2IsGZ65d1x-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/Gkpk4LcL1lk/sddefault.jpg;clipPath=inset(66.89% 0.67% 10% 66%);" vertex="1" parent="qaj5zATMnUIq8szRWWFh-1">
+          <mxGeometry x="1160" y="212.45000000000005" width="30" height="15.6" as="geometry" />
+        </mxCell>
+        <mxCell id="uJtgWq79T4M8viE7-oRs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" parent="qaj5zATMnUIq8szRWWFh-1" source="uJtgWq79T4M8viE7-oRs-6" target="qaj5zATMnUIq8szRWWFh-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
