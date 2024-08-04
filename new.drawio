@@ -633,7 +633,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Sales Forecasting B2C" id="5yABHl7X9H7E8qbazdYf">
-    <mxGraphModel dx="1688" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uQ1h9xdllwyIHhU02QEo-0" />
         <mxCell id="uQ1h9xdllwyIHhU02QEo-1" parent="uQ1h9xdllwyIHhU02QEo-0" />
@@ -828,7 +828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Sales Forecasting B2B" id="9vn_FeomomEMmIzsOv4w">
-    <mxGraphModel dx="1688" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="j9IYUlIRRbamEVP9Bepg-0" />
         <mxCell id="j9IYUlIRRbamEVP9Bepg-1" parent="j9IYUlIRRbamEVP9Bepg-0" />
@@ -1009,7 +1009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MPS" id="3PSEQ6IP6d7wRdHTJW9H">
-    <mxGraphModel dx="1407" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Lp7DW3RqeQi7_vj7h4bg-0" />
         <mxCell id="Lp7DW3RqeQi7_vj7h4bg-1" parent="Lp7DW3RqeQi7_vj7h4bg-0" />
@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MRP" id="_WpK9GcKDZ6MbUbV-8WO">
-    <mxGraphModel dx="1688" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="O_Iy7LO-BlmU1noZ7wO6-0" />
         <mxCell id="O_Iy7LO-BlmU1noZ7wO6-1" parent="O_Iy7LO-BlmU1noZ7wO6-0" />
@@ -1194,7 +1194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Procurement" id="5T9mwH23swbSJPdpW0DJ">
-    <mxGraphModel dx="1407" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="aLGtTrMvCx1nG7uPnPYJ-0" />
         <mxCell id="aLGtTrMvCx1nG7uPnPYJ-1" parent="aLGtTrMvCx1nG7uPnPYJ-0" />
@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Material receiving" id="TuAz-KD_Ymm_1TcQqgIj">
-    <mxGraphModel dx="1407" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qaj5zATMnUIq8szRWWFh-0" />
         <mxCell id="qaj5zATMnUIq8szRWWFh-1" parent="qaj5zATMnUIq8szRWWFh-0" />
