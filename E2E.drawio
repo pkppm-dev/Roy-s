@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.4" pages="15">
   <diagram name="Overall flow" id="aIydNRDStPWsSJ3BAeCJ">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -631,7 +631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Sales Forecasting B2C" id="5yABHl7X9H7E8qbazdYf">
-    <mxGraphModel dx="2954" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uQ1h9xdllwyIHhU02QEo-0" />
         <mxCell id="uQ1h9xdllwyIHhU02QEo-1" parent="uQ1h9xdllwyIHhU02QEo-0" />
@@ -834,11 +834,11 @@
         <mxCell id="Vc4Uehghjcly0RNrQRre-41" value="Production Planning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uQ1h9xdllwyIHhU02QEo-1" vertex="1">
           <mxGeometry x="710" y="422.63" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vc4Uehghjcly0RNrQRre-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/Gkpk4LcL1lk/sddefault.jpg;clipPath=inset(66.89% 0.67% 10% 66%);" parent="uQ1h9xdllwyIHhU02QEo-1" vertex="1">
-          <mxGeometry x="440" y="314.40000000000003" width="30" height="15.6" as="geometry" />
-        </mxCell>
         <mxCell id="Vc4Uehghjcly0RNrQRre-43" value="*MDT forecasting : MDT only forecasts The Mall SKU. Tops and CFW are made to order (MTO)." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uQ1h9xdllwyIHhU02QEo-1" vertex="1">
           <mxGeometry x="200" y="460" width="570" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YohHRXFQYjwoHGUI3kMW-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647714-excel-128.png" vertex="1" parent="uQ1h9xdllwyIHhU02QEo-1">
+          <mxGeometry x="452" y="312" width="18" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
