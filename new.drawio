@@ -2844,7 +2844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IOX1inw3LdcvKwB3lK8b" name="Product Hierarchy">
-    <mxGraphModel dx="1688" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3058,7 +3058,7 @@
         <mxCell id="Ofu-TPoOa_SUx5TdHTb5-76" value="Chill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ofu-TPoOa_SUx5TdHTb5-81" value="CC-HA-SS-12-1000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ofu-TPoOa_SUx5TdHTb5-81" value="CC-HA-SS-00-0000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="660" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ofu-TPoOa_SUx5TdHTb5-82" value="CC-HA-XS-12-1000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3066,6 +3066,15 @@
         </mxCell>
         <mxCell id="Ofu-TPoOa_SUx5TdHTb5-83" value="CC-HA-SX-12-1000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofu-TPoOa_SUx5TdHTb5-84" value="CC-HB-SS-00-0000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="660" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofu-TPoOa_SUx5TdHTb5-85" value="CC-HB-XS-12-1000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="710" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofu-TPoOa_SUx5TdHTb5-86" value="CC-HB-SX-12-1000-FZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="760" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
